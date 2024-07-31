@@ -9,4 +9,4 @@ Down --// Offline
 
 ]]
 
-shared.Status = "Updating"
+getfenv().Status = "Updating"
