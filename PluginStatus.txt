@@ -1,1 +1,12 @@
-Working
+[[
+Statuses:
+
+Working --// Everything Working
+MinorBugs --// Minor Problems Etc
+MayorBugs --// Big Problems
+Updating --// Working on Update
+Down --// Offline
+
+]]
+
+_G.Status = "Updating"
