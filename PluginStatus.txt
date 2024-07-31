@@ -9,4 +9,4 @@ Down --// Offline
 
 ]]
 
-_G.Status = "Updating"
+shared.Status = "Updating"
